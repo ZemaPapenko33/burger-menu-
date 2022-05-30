@@ -4,3 +4,4 @@
 - scrolling through the main content
 - not quite a harmonious logo
 > the second part of the burger menu will be more better done, this is just an initial (minimal) example
+[CHEK](https://zemapapenko33.github.io/burger-menu-/)
